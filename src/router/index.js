@@ -3,7 +3,6 @@ import VueRouter from 'vue-router'
 import List from '../views/List.vue'
 import Form from '../views/Form.vue'
 
-
 Vue.use(VueRouter)
 
 const routes = [
